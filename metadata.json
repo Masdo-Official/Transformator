@@ -1,0 +1,5 @@
+{
+  "name": "CJS-to-ESM Migrator",
+  "description": "A professional-grade developer tool powered by Gemini 3 Pro to intelligently convert legacy Node.js CommonJS code to modern ECMAScript Modules while strictly preserving logic and variable integrity.",
+  "requestFramePermissions": []
+}
